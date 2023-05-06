@@ -28,8 +28,10 @@ Apply  Otsu's method to segment the image.
 
 Display the result of the above methods.
 ## Program
+~~~
+DEVELOPED BY : Meiyarasi.V
+REGISTER NO :212221230058 
 
-```python
 # Load the necessary packages
 
 import cv2
@@ -86,9 +88,7 @@ for i in range(0,9):
     plt.axis("off")
     plt.show()
 
-
-
-```
+~~~
 ## Output
 
 ### Original Image
